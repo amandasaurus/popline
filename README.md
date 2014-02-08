@@ -9,3 +9,7 @@ e.g. to watch a list of files in order, use this:
 Licenced under GNU GPLv3 (or at your option a later version). This code is © 2013 Rory McCann.
 The version numbers follow [Semantic Versioning](http://semver.org/).
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rory/popline/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
