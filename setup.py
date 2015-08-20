@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="popline",
-    version="1.0.0",
+    version="1.1.0",
     author="Rory McCann",
     author_email="rory@technomancy.org",
     py_modules=['popline'],
